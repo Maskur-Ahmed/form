@@ -1,0 +1,23 @@
+table{
+    background: tomato;
+    margin: auto;
+    margin-top: 100px;
+    border-collapse: collapse;
+    text-align: left; 
+}
+h1{
+    text-align: center;
+    background:blueviolet;
+    border-radius: 10px;
+    padding: 50px;
+    color: burlywood;
+}
+td{
+    padding:5px;
+    border: 2px solid black;
+}
+
+thead{
+    color: white;
+    font-weight: bold
+}
