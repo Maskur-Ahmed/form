@@ -1,0 +1,26 @@
+nav ul{
+    display: flex;
+    width: 1320px;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+nav li{
+    list-style: none;
+    margin-left: 30px;
+    background-color: gray;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    color: wheat;
+    padding: 5px;
+}
+nav li:hover{
+    background-color: tomato;
+    color: black;
+
+}
