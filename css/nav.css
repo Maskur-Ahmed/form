@@ -24,3 +24,15 @@ nav li:hover{
     color: black;
 
 }
+
+nav > ul .dropdown{
+    position: absolute;
+    padding: 5px;
+    flex-direction: row;
+    display: none;
+    width: 10%;
+}
+
+nav > ul:hover .dropdown{
+    display: block;
+}
