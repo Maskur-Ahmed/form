@@ -28,4 +28,4 @@ var Maskur = "Ahmed";
 var my_name_is = "Maskur"; //! snack case
 var myNameIs = "Maskur";  //!  camel case
 var MyNameIs = "Maskur";  //!  pascel case
-
+//we will not use the var ;
