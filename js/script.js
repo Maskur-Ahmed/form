@@ -11,3 +11,4 @@ console.log(typeof maskur);
 console.log(typeof age);
 console.log(typeof birth_year);
 console.log(typeof isSingle);
+
