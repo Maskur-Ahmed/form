@@ -1,4 +1,4 @@
-//! no keyword in variable name:
+//! cannot use reserve keyword in variable name:
 // var false = 43;
 // var var = 49;
 
@@ -10,6 +10,10 @@
 
 // var 34man = 'army';
 
+//but we can add nubmber on the last of the name like:
+
+var boy3 = "he";
+
 //! 3.cannot space in the name of variable like:-
 
 // var maskur ahmed = "a man";
@@ -18,8 +22,9 @@
 
 var maskur ="ahmed";
 var Maskur = "Ahmed";
+// two variable are diffrent 
 
-//* 5.no quotation on the name :-
+//* 5.cannot use quotation on the name :-
 
 // ! like var "age" = 12;
 
