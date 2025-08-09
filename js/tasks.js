@@ -31,3 +31,10 @@ console.log(avarageMarks);
 //* task 2 complete;
 
 //! task 3 :
+
+var inputNum = 1958;
+var moduloNum = 5;
+
+var moduloAns = (inputNum % 5);
+
+console.log(moduloAns);
