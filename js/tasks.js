@@ -38,3 +38,12 @@ var moduloNum = 5;
 var moduloAns = (inputNum % 5);
 
 console.log(moduloAns);
+ 
+//* task 3 complete ;
+
+//!task 4 :
+
+var a = isNaN(22);
+console.log(a);
+//isNaN is a method of checking a number or not a number;
+
