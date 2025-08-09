@@ -20,6 +20,7 @@ var realAge = "19";
 console.log(age + realAge);
 //google search :Number(x)
 //question:what is  isNaN()
-console.log(alu);
-console.log(mango);
-console.log(cMoney);
+// console.log(alu);
+// console.log(mango);
+// console.log(cMoney);
+
