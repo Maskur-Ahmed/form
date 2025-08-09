@@ -14,9 +14,13 @@ console.log(pantPrice,"tk");
 var fashion =(convertingNumber * pantPrice);
 
 var glassPrice =" 200.52465724565";
+
 var cGPrice = parseFloat(glassPrice);
+
 var total = (fashion + cGPrice.toFixed(2));
 
 var cTotal =parseFloat(total);
 console.log(cTotal);
 console.log(typeof(cTotal));
+
+
