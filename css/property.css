@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+}
+
+.parent{
+    background-color: purple;
+    padding: 25px;
+    /* height: 500px; */
+    display:flex;
+    gap: 10px;
+    justify-content: space-evenly;
+    /* align-items: center; */
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.child{
+    background-color: darkseagreen;
+    padding: 50px;
+    margin-bottom: 20px;
+}

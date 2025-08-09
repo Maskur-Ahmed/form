@@ -43,7 +43,7 @@ console.log(moduloAns);
 
 //!task 4 :
 
-var a = isNaN(22);
+var a = isNaN("33");
 console.log(a);
 //isNaN is a method of checking a number or not a number;
 
